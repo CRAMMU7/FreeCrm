@@ -1,0 +1,5 @@
+com\crm\qa\testcases\EmailPageTest.class
+com\crm\qa\testcases\PropertiesDetailsPageTest.class
+com\crm\qa\testcases\PropertiesPageTest.class
+com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\AgentsPageTest.class
